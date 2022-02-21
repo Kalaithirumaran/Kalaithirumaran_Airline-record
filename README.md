@@ -6,3 +6,6 @@
 
 ## Gitinspector
 [![Git Inspector](https://github.com/Kalaithirumaran/M1_Airline-record_Util/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Kalaithirumaran/M1_Airline-record_Util/actions/workflows/gitinspector.yml)
+
+## Codequality
+[![Valgrind](https://github.com/Kalaithirumaran/M1_Airline-record_Util/actions/workflows/codequality.yml/badge.svg)](https://github.com/Kalaithirumaran/M1_Airline-record_Util/actions/workflows/codequality.yml)
