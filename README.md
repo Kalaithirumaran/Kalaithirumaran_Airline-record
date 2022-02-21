@@ -9,3 +9,6 @@
 
 ## Codequality
 [![Valgrind](https://github.com/Kalaithirumaran/M1_Airline-record_Util/actions/workflows/codequality.yml/badge.svg)](https://github.com/Kalaithirumaran/M1_Airline-record_Util/actions/workflows/codequality.yml)
+
+## Cppcheck
+[![cppcheck-action](https://github.com/Kalaithirumaran/M1_Airline-record_Util/actions/workflows/cpp.yml/badge.svg)](https://github.com/Kalaithirumaran/M1_Airline-record_Util/actions/workflows/cpp.yml)
